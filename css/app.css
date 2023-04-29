@@ -17,17 +17,17 @@ body {
   justify-content: center;
   align-items: center;
   font-size: 1.5rem;
-  color: #fff;
+  color: #FFF;
 }
-#city {
-  background-color: rgba(41, 120, 105, 0.75);
+#city{
+    background-color: rgba(41, 120, 105, 0.75);
 }
-#tmp {
-  background-color: rgba(41, 120, 105, 0.65);
+#tmp{
+    background-color: rgba(41, 120, 105, 0.65);
 }
-#humidity {
-  background-color: rgba(41, 120, 105, 0.55);
+#humidity{
+    background-color: rgba(41, 120, 105, 0.55);
 }
-#wind {
-  background-color: rgba(41, 120, 105, 0.45);
+#wind{
+    background-color: rgba(41, 120, 105, 0.45);
 }
