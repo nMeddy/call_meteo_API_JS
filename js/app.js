@@ -27,5 +27,6 @@ document.querySelector(`form`).addEventListener(`submit`, function (e) {
   e.preventDefault();
   const ville = document.querySelector(`#inputCity`).value
 
-  CallAPI(ville)
+  CallAPI(ville);
 });
+CallAPI(`Kinshasa`);
